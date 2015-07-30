@@ -1,0 +1,11 @@
+{
+    "name": "brackets.sqf-search",
+    "title": "Ez SQF Search",
+    "description": "Search SQF commands straight from BIS Wiki",
+    "version": "1.0.0",
+    "author": "Fini",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.31.0"
+    }
+}
